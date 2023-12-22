@@ -1,0 +1,51 @@
+[
+    {
+      "brand_name": "Walton",
+      "brand_image": "https://img.freepik.com/free-vector/mobile-phone-screen-design_1314-159.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+    },
+    {
+      "brand_name": "Symphony",
+      "brand_image": "https://img.freepik.com/premium-vector/230_7993-7985.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+    },
+    {
+      "brand_name": "Samsung",
+      "brand_image": "https://img.freepik.com/free-photo/smartphone-nature-concept_23-2150246099.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+    },
+    {
+      "brand_name": "Xiaomi",
+      "brand_image": "https://images.unsplash.com/photo-1598327106026-d9521da673d1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8TW9iaWxlJTIwWGlhb21pfGVufDB8fDB8fHww"
+    },
+    {
+      "brand_name": "Realme",
+      "brand_image": "https://images.unsplash.com/photo-1631871633283-31be5e55a29a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TW9iaWxlJTIwUmVhbG1lfGVufDB8fDB8fHww"
+    },
+    {
+      "brand_name": "Oppo",
+      "brand_image": "https://images.unsplash.com/photo-1649859398021-afbfe80e83b9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TW9iaWxlJTIwT3Bwb3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "brand_name": "Vivo",
+      "brand_image": "https://images.unsplash.com/photo-1655802855228-8ce409441f71?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fE1vYmlsZSUyMFZpdm98ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "brand_name": "Huawei",
+      "brand_image": "https://images.unsplash.com/photo-1612474522113-6c2c6fc94c9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8TW9iaWxlJTIwSHVhd2VpfGVufDB8fDB8fHww"
+    },
+    {
+      "brand_name": "iPhone",
+      "brand_image": "https://images.unsplash.com/photo-1543510644-82353c4be12a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODJ8fE1vYmlsZSUyMGlQaG9uZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "brand_name": "Amazon Mobile",
+      "brand_image": "https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fE1vYmlsZSUyMFNhbXN1bmd8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "brand_name": "Nokia",
+      "brand_image": "https://images.unsplash.com/photo-1587901661576-4cf34e4785bb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fE1vYmlsZSUyME5va2lhfGVufDB8fDB8fHww"
+    },
+    {
+      "brand_name": "LG",
+      "brand_image": "https://images.unsplash.com/photo-1580993390368-78542f087c69?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fE1vYmlsZSUyMExHfGVufDB8fDB8fHww"
+    }
+  ]
+  
