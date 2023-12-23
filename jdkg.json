@@ -1,51 +1,1300 @@
 [
-    {
-      "brand_name": "Walton",
-      "brand_image": "https://img.freepik.com/free-vector/mobile-phone-screen-design_1314-159.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
-    },
-    {
-      "brand_name": "Symphony",
-      "brand_image": "https://img.freepik.com/premium-vector/230_7993-7985.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
-    },
-    {
-      "brand_name": "Samsung",
-      "brand_image": "https://img.freepik.com/free-photo/smartphone-nature-concept_23-2150246099.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
-    },
-    {
-      "brand_name": "Xiaomi",
-      "brand_image": "https://images.unsplash.com/photo-1598327106026-d9521da673d1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8TW9iaWxlJTIwWGlhb21pfGVufDB8fDB8fHww"
-    },
-    {
-      "brand_name": "Realme",
-      "brand_image": "https://images.unsplash.com/photo-1631871633283-31be5e55a29a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TW9iaWxlJTIwUmVhbG1lfGVufDB8fDB8fHww"
-    },
-    {
-      "brand_name": "Oppo",
-      "brand_image": "https://images.unsplash.com/photo-1649859398021-afbfe80e83b9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TW9iaWxlJTIwT3Bwb3xlbnwwfHwwfHx8MA%3D%3D"
-    },
-    {
-      "brand_name": "Vivo",
-      "brand_image": "https://images.unsplash.com/photo-1655802855228-8ce409441f71?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fE1vYmlsZSUyMFZpdm98ZW58MHx8MHx8fDA%3D"
-    },
-    {
-      "brand_name": "Huawei",
-      "brand_image": "https://images.unsplash.com/photo-1612474522113-6c2c6fc94c9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8TW9iaWxlJTIwSHVhd2VpfGVufDB8fDB8fHww"
-    },
-    {
-      "brand_name": "iPhone",
-      "brand_image": "https://images.unsplash.com/photo-1543510644-82353c4be12a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODJ8fE1vYmlsZSUyMGlQaG9uZXxlbnwwfHwwfHx8MA%3D%3D"
-    },
-    {
-      "brand_name": "Amazon Mobile",
-      "brand_image": "https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fE1vYmlsZSUyMFNhbXN1bmd8ZW58MHx8MHx8fDA%3D"
-    },
-    {
-      "brand_name": "Nokia",
-      "brand_image": "https://images.unsplash.com/photo-1587901661576-4cf34e4785bb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fE1vYmlsZSUyME5va2lhfGVufDB8fDB8fHww"
-    },
-    {
-      "brand_name": "LG",
-      "brand_image": "https://images.unsplash.com/photo-1580993390368-78542f087c69?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fE1vYmlsZSUyMExHfGVufDB8fDB8fHww"
-    }
-  ]
-  
+  {
+    "name": "LG 13",
+    "price": 1099.99,
+    "type": "Smartphone",
+    "processor": "A15 Bionic",
+    "memory": "128GB",
+    "os": "iOS 15",
+    "brand_name": "LG",
+    "brand_image": "https://images.unsplash.com/photo-1580993390368-78542f087c69?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fE1vYmlsZSUyMExHfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "LG G8 ThinQ",
+    "price": 799.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 855",
+    "memory": "128GB",
+    "os": "Android 10",
+    "brand_name": "LG",
+    "brand_image": "https://images.unsplash.com/photo-1517091362637-0b90051c1a44?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "LG Velvet",
+    "price": 899.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 765G",
+    "memory": "256GB",
+    "os": "Android 10",
+    "brand_name": "LG",
+    "brand_image": "https://img.freepik.com/free-vector/wavy-abstract-background-smartphone_23-2147574231.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "LG Stylo 6",
+    "price": 249.99,
+    "type": "Smartphone",
+    "processor": "MediaTek Helio P35",
+    "memory": "64GB",
+    "os": "Android 10",
+    "brand_name": "LG",
+    "brand_image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "LG K92 5G",
+    "price": 349.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 690",
+    "memory": "128GB",
+    "os": "Android 10",
+    "brand_name": "LG",
+    "brand_image": "https://images.unsplash.com/photo-1603921326210-6edd2d60ca68?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "LG Q70",
+    "price": 299.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 675",
+    "memory": "64GB",
+    "os": "Android 9",
+    "brand_name": "LG",
+    "brand_image": "https://img.freepik.com/premium-photo/modern-mobile-phone_692498-757.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "LG K51S",
+    "price": 199.99,
+    "type": "Smartphone",
+    "processor": "Mediatek MT6762",
+    "memory": "64GB",
+    "os": "Android 9",
+    "brand_name": "LG",
+    "brand_image": "https://images.unsplash.com/photo-1529653762956-b0a27278529c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "LG Aristo 5",
+    "price": 129.99,
+    "type": "Smartphone",
+    "processor": "Mediatek MT6762",
+    "memory": "32GB",
+    "os": "Android 10",
+    "brand_name": "LG",
+    "brand_image": "https://images.unsplash.com/photo-1528270018395-375b027411bd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "LG W31 Plus",
+    "price": 179.99,
+    "type": "Smartphone",
+    "processor": "Mediatek Helio P22",
+    "memory": "128GB",
+    "os": "Android 10",
+    "brand_name": "LG",
+    "brand_image": "https://images.unsplash.com/photo-1518118293823-28f071202da1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "LG K8 (2018)",
+    "price": 99.99,
+    "type": "Smartphone",
+    "processor": "Mediatek MT6739",
+    "memory": "16GB",
+    "os": "Android 8.0",
+    "brand_name": "LG",
+    "brand_image": "https://images.unsplash.com/photo-1603921326210-6edd2d60ca68?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+
+  {
+    "name": "Samsung Galaxy S21",
+    "price": 999.99,
+    "type": "Smartphone",
+    "processor": "Exynos 2100",
+    "memory": "256GB",
+    "os": "Android 11",
+    "brand_name": "Samsung",
+    "brand_image": "https://img.freepik.com/free-photo/smartphone-nature-concept_23-2150246099.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Samsung Galaxy S21",
+    "price": 999.99,
+    "type": "Smartphone",
+    "processor": "Exynos 2100",
+    "memory": "256GB",
+    "os": "Android 11",
+    "brand_name": "Samsung",
+    "brand_image": "https://images.unsplash.com/photo-1517091362637-0b90051c1a44?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Samsung Galaxy Note 20 Ultra",
+    "price": 1299.99,
+    "type": "Phablet",
+    "processor": "Exynos 990",
+    "memory": "512GB",
+    "os": "Android 10",
+    "brand_name": "Samsung",
+    "brand_image": "https://img.freepik.com/premium-vector/vector-smartphone-design_1340-3514.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Samsung Galaxy Z Fold 3",
+    "price": 1799.99,
+    "type": "Foldable Smartphone",
+    "processor": "Snapdragon 888",
+    "memory": "256GB",
+    "os": "Android 11",
+    "brand_name": "Samsung",
+    "brand_image": "https://img.freepik.com/premium-photo/old-pushbutton-mobile-phone-with-reflection-blue-background_233809-809.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Samsung Galaxy A52",
+    "price": 499.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 720G",
+    "memory": "128GB",
+    "os": "Android 11",
+    "brand_name": "Samsung",
+    "brand_image": "https://images.unsplash.com/photo-1600477412224-0f29b829f857?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Samsung Galaxy S20 FE",
+    "price": 699.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 865",
+    "memory": "256GB",
+    "os": "Android 10",
+    "brand_name": "Samsung",
+    "brand_image": "https://images.unsplash.com/photo-1518118293823-28f071202da1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Samsung Galaxy Tab S7+",
+    "price": 849.99,
+    "type": "Tablet",
+    "processor": "Snapdragon 865+",
+    "memory": "256GB",
+    "os": "Android 10",
+    "brand_name": "Samsung",
+    "brand_image": "https://images.unsplash.com/photo-1518118293823-28f071202da1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Samsung Galaxy Watch 4",
+    "price": 299.99,
+    "type": "Smartwatch",
+    "processor": "Exynos W920",
+    "memory": "16GB",
+    "os": "Wear OS",
+    "brand_name": "Samsung",
+    "brand_image": "https://img.freepik.com/free-vector/smartphone-with-gradient-wallpaper_23-2147839163.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Samsung Galaxy Buds Pro",
+    "price": 199.99,
+    "type": "Wireless Earbuds",
+    "processor": "Exynos W920",
+    "memory": "16GB",
+    "os": "Wear OS",
+    "brand_name": "Samsung",
+    "brand_image": "https://images.unsplash.com/photo-1524856076870-0d765c831d68?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Samsung Galaxy Book Flex 2",
+    "price": 1299.99,
+    "type": "2-in-1 Laptop",
+    "processor": "Intel Core i7",
+    "memory": "512GB SSD",
+    "os": "Windows 10",
+    "brand_name": "Samsung",
+    "brand_image": "https://images.unsplash.com/photo-1600477412224-0f29b829f857?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Samsung Galaxy Fit 2",
+    "price": 49.99,
+    "type": "Fitness Tracker",
+    "processor": "Exynos W920",
+    "memory": "16GB",
+    "os": "Wear OS",
+    "brand_name": "Samsung",
+    "brand_image": "https://images.unsplash.com/photo-1599950755346-a3e58f84ca63?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDF8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Walton Pixel 6",
+    "price": 799.99,
+    "type": "Smartphone",
+    "processor": "Walton Tensor",
+    "memory": "128GB",
+    "os": "Android 12",
+    "brand_name": "Walton",
+    "brand_image": "https://img.freepik.com/free-vector/mobile-phone-screen-design_1314-159.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Walton Primo X5",
+    "price": 199.99,
+    "type": "Smartphone",
+    "processor": "Mediatek Helio G90",
+    "memory": "64GB",
+    "os": "Android 10",
+    "brand_name": "Walton",
+    "brand_image": "https://images.unsplash.com/photo-1517091362637-0b90051c1a44?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Walton Primo NH4",
+    "price": 129.99,
+    "type": "Smartphone",
+    "processor": "Mediatek MT6580",
+    "memory": "32GB",
+    "os": "Android 9",
+    "brand_name": "Walton",
+    "brand_image": "https://img.freepik.com/free-vector/wavy-abstract-background-smartphone_23-2147574231.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Walton Primo S7 Pro",
+    "price": 299.99,
+    "type": "Smartphone",
+    "processor": "Mediatek Helio G95",
+    "memory": "128GB",
+    "os": "Android 11",
+    "brand_name": "Walton",
+    "brand_image": "https://images.unsplash.com/photo-1518118293823-28f071202da1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Walton Primo RX8",
+    "price": 249.99,
+    "type": "Smartphone",
+    "processor": "Mediatek Helio G90T",
+    "memory": "128GB",
+    "os": "Android 10",
+    "brand_name": "Walton",
+    "brand_image": "https://img.freepik.com/free-psd/three-dimensional-image-mobile-phone_53876-1606.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Walton Primo H9",
+    "price": 179.99,
+    "type": "Smartphone",
+    "processor": "Mediatek Helio A25",
+    "memory": "64GB",
+    "os": "Android 10",
+    "brand_name": "Walton",
+    "brand_image": "https://images.unsplash.com/photo-1524856076870-0d765c831d68?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Walton Primo RX7",
+    "price": 169.99,
+    "type": "Smartphone",
+    "processor": "Mediatek Helio P70",
+    "memory": "64GB",
+    "os": "Android 9",
+    "brand_name": "Walton",
+    "brand_image": "https://images.unsplash.com/photo-1603921326210-6edd2d60ca68?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Walton Primo GM4",
+    "price": 99.99,
+    "type": "Smartphone",
+    "processor": "Mediatek MT6739",
+    "memory": "16GB",
+    "os": "Android 8.1",
+    "brand_name": "Walton",
+    "brand_image": "https://images.unsplash.com/photo-1599950755346-a3e58f84ca63?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDF8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Walton Primo R5",
+    "price": 199.99,
+    "type": "Smartphone",
+    "processor": "Mediatek Helio A22",
+    "memory": "32GB",
+    "os": "Android 9",
+    "brand_name": "Walton",
+    "brand_image": "https://images.unsplash.com/photo-1600477412224-0f29b829f857?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Walton Primo RX6",
+    "price": 149.99,
+    "type": "Smartphone",
+    "processor": "Mediatek Helio P60",
+    "memory": "64GB",
+    "os": "Android 9",
+    "brand_name": "Walton",
+    "brand_image": "https://images.unsplash.com/photo-1600477412224-0f29b829f857?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Walton Primo HM4i",
+    "price": 79.99,
+    "type": "Smartphone",
+    "processor": "Mediatek MT6580",
+    "memory": "16GB",
+    "os": "Android 8.1",
+    "brand_name": "Walton",
+    "brand_image": "https://img.freepik.com/premium-vector/golden-smartphone_110488-1321.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "OnePlus 9",
+    "price": 899.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 888",
+    "memory": "256GB",
+    "os": "OxygenOS 11",
+    "brand_name": "Amazon",
+    "brand_image": "https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fE1vYmlsZSUyMFNhbXN1bmd8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Amazon Kindle Oasis",
+    "price": 249.99,
+    "type": "E-Reader",
+    "processor": "Custom Kindle Processor",
+    "memory": "32GB",
+    "os": "Kindle OS",
+    "brand_name": "Amazon",
+    "brand_image": "https://images.unsplash.com/photo-1517091362637-0b90051c1a44?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Amazon Kindle Paperwhite",
+    "price": 129.99,
+    "type": "E-Reader",
+    "processor": "Custom Kindle Processor",
+    "memory": "8GB",
+    "os": "Kindle OS",
+    "brand_name": "Amazon",
+    "brand_image": "https://images.unsplash.com/photo-1524856076870-0d765c831d68?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Amazon Kindle Basic",
+    "price": 79.99,
+    "type": "E-Reader",
+    "processor": "Custom Kindle Processor",
+    "memory": "4GB",
+    "os": "Kindle OS",
+    "brand_name": "Amazon",
+    "brand_image": "https://img.freepik.com/free-vector/realistic-grey-smartphone-with-three-cameras_52683-29937.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Amazon Fire HD 10",
+    "price": 149.99,
+    "type": "Tablet",
+    "processor": "Octa-core",
+    "memory": "32GB",
+    "os": "Fire OS",
+    "brand_name": "Amazon",
+    "brand_image": "https://images.unsplash.com/photo-1518118293823-28f071202da1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Amazon Fire HD 8",
+    "price": 89.99,
+    "type": "Tablet",
+    "processor": "Quad-core",
+    "memory": "16GB",
+    "os": "Fire OS",
+    "brand_name": "Amazon",
+    "brand_image": "https://img.freepik.com/premium-vector/vector-illustration-modern-mobile-phone_420555-334.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Amazon Echo Show 8",
+    "price": 129.99,
+    "type": "Smart Display",
+    "processor": "MediaTek MT8163",
+    "memory": "1GB RAM",
+    "os": "Alexa",
+    "brand_name": "Amazon",
+    "brand_image": "https://images.unsplash.com/photo-1524856076870-0d765c831d68?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Amazon Echo Dot (4th Gen)",
+    "price": 49.99,
+    "type": "Smart Speaker",
+    "processor": "N/A",
+    "memory": "N/A",
+    "os": "Alexa",
+    "brand_name": "Amazon",
+    "brand_image": "https://images.unsplash.com/photo-1600477412224-0f29b829f857?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Amazon Echo Show 5",
+    "price": 89.99,
+    "type": "Smart Display",
+    "processor": "MediaTek MT8163",
+    "memory": "1GB RAM",
+    "os": "Alexa",
+    "brand_name": "Amazon",
+    "brand_image": "https://images.unsplash.com/photo-1524856076870-0d765c831d68?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Amazon Fire TV Stick 4K",
+    "price": 49.99,
+    "type": "Streaming Device",
+    "processor": "Quad-core",
+    "memory": "8GB",
+    "os": "Fire OS",
+    "brand_name": "Amazon",
+    "brand_image": "https://images.unsplash.com/photo-1600477412224-0f29b829f857?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Amazon Echo Buds",
+    "price": 129.99,
+    "type": "Wireless Earbuds",
+    "processor": "Intel Celeron N2807",
+    "memory": "4GB",
+    "os": "Alexa",
+    "brand_name": "Amazon",
+    "brand_image": "https://img.freepik.com/premium-vector/digital-gadget_6317-1295.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Xiaomi Mi 11",
+    "price": 799.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 888",
+    "memory": "128GB",
+    "os": "MIUI 12",
+    "brand_name": "Xiaomi",
+    "brand_image": "https://images.unsplash.com/photo-1598327106026-d9521da673d1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8TW9iaWxlJTIwWGlhb21pfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Xiaomi Mi 11",
+    "price": 799.99,
+    "type": "Smartphone",
+    "processor": "Qualcomm Snapdragon 888",
+    "memory": "128GB",
+    "os": "MIUI 12 (based on Android 11)",
+    "brand_name": "Xiaomi",
+    "brand_image": "https://images.unsplash.com/photo-1517091362637-0b90051c1a44?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Xiaomi Redmi Note 10",
+    "price": 229.99,
+    "type": "Smartphone",
+    "processor": "Qualcomm Snapdragon 678",
+    "memory": "128GB",
+    "os": "MIUI 12 (based on Android 11)",
+    "brand_name": "Xiaomi",
+    "brand_image": "https://images.unsplash.com/photo-1524856076870-0d765c831d68?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Xiaomi Poco X3",
+    "price": 249.99,
+    "type": "Smartphone",
+    "processor": "Qualcomm Snapdragon 732G",
+    "memory": "128GB",
+    "os": "MIUI 12 (based on Android 10)",
+    "brand_name": "Xiaomi",
+    "brand_image": "https://img.freepik.com/premium-vector/vector-illustration-modern-mobile-phone_420555-334.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Xiaomi Mi 10T Pro",
+    "price": 599.99,
+    "type": "Smartphone",
+    "processor": "Qualcomm Snapdragon 865",
+    "memory": "256GB",
+    "os": "MIUI 12 (based on Android 10)",
+    "brand_name": "Xiaomi",
+    "brand_image": "https://images.unsplash.com/photo-1518118293823-28f071202da1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Xiaomi Black Shark 4",
+    "price": 499.99,
+    "type": "Gaming Smartphone",
+    "processor": "Qualcomm Snapdragon 870",
+    "memory": "128GB",
+    "os": "JoyUI 12 (based on Android 11)",
+    "brand_name": "Xiaomi",
+    "brand_image": "https://img.freepik.com/free-psd/three-dimensional-image-mobile-phone_53876-1606.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Xiaomi Mi Pad 5",
+    "price": 499.99,
+    "type": "Tablet",
+    "processor": "Qualcomm Snapdragon 870",
+    "memory": "128GB",
+    "os": "MIUI 12 (based on Android 11)",
+    "brand_name": "Xiaomi",
+    "brand_image": "https://img.freepik.com/free-vector/mobile-phones-realistic-style_23-2147510822.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Xiaomi Mi Watch",
+    "price": 199.99,
+    "type": "Smartwatch",
+    "processor": "Quad-core",
+    "memory": "4GB",
+    "os": "MIUI for Watch",
+    "brand_name": "Xiaomi",
+    "brand_image": "https://img.freepik.com/premium-vector/vector-illustration-modern-mobile-phone_420555-334.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Xiaomi AirDots Pro",
+    "price": 79.99,
+    "type": "Wireless Earbuds",
+    "processor": "Quad-core",
+    "memory": "32GB",
+    "os": "PatchWall OS",
+    "brand_name": "Xiaomi",
+    "brand_image": "https://img.freepik.com/free-vector/wavy-abstract-background-smartphone_23-2147574231.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Xiaomi Mi TV 4S",
+    "price": 499.99,
+    "type": "Smart TV",
+    "processor": "Quad-core",
+    "memory": "32GB",
+    "os": "PatchWall OS",
+    "brand_name": "Xiaomi",
+    "brand_image": "https://img.freepik.com/free-vector/smartphone-with-gradient-wallpaper_23-2147843160.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Xiaomi Mi Power Bank 3",
+    "price": 29.99,
+    "type": "Power Bank",
+    "capacity": "10000mAh",
+    "output": "USB-A, USB-C",
+    "brand_name": "Xiaomi",
+    "brand_image": "https://img.freepik.com/premium-vector/golden-smartphone_110488-1321.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Sony Xperia 1 III",
+    "price": 1299.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 888",
+    "memory": "256GB",
+    "os": "Android 11",
+    "brand_name": "iPhone",
+    "brand_image": "https://images.unsplash.com/photo-1543510644-82353c4be12a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODJ8fE1vYmlsZSUyMGlQaG9uZXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "name": "iPhone 13 Pro Max",
+    "price": 1099.99,
+    "type": "Smartphone",
+    "processor": "A15 Bionic",
+    "memory": "256GB",
+    "os": "iOS 15",
+    "brand_name": "Apple",
+    "brand_image": "https://images.unsplash.com/photo-1517091362637-0b90051c1a44?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "iPhone 13",
+    "price": 799.99,
+    "type": "Smartphone",
+    "processor": "A15 Bionic",
+    "memory": "128GB",
+    "os": "iOS 15",
+    "brand_name": "Apple",
+    "brand_image": "https://images.unsplash.com/photo-1518118293823-28f071202da1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "iPhone 12 Pro",
+    "price": 999.99,
+    "type": "Smartphone",
+    "processor": "A14 Bionic",
+    "memory": "256GB",
+    "os": "iOS 14",
+    "brand_name": "Apple",
+    "brand_image": "https://images.unsplash.com/photo-1524856076870-0d765c831d68?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "iPhone 12",
+    "price": 699.99,
+    "type": "Smartphone",
+    "processor": "A14 Bionic",
+    "memory": "128GB",
+    "os": "iOS 14",
+    "brand_name": "Apple",
+    "brand_image": "https://img.freepik.com/premium-vector/golden-smartphone_110488-1321.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "iPhone SE (2nd Gen)",
+    "price": 399.99,
+    "type": "Smartphone",
+    "processor": "A13 Bionic",
+    "memory": "128GB",
+    "os": "iOS 14",
+    "brand_name": "Apple",
+    "brand_image": "https://img.freepik.com/free-vector/realistic-grey-smartphone-with-three-cameras_52683-29937.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "iPhone 11 Pro",
+    "price": 899.99,
+    "type": "Smartphone",
+    "processor": "A13 Bionic",
+    "memory": "256GB",
+    "os": "iOS 13",
+    "brand_name": "Apple",
+    "brand_image": "https://images.unsplash.com/photo-1600477412224-0f29b829f857?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "iPhone 11",
+    "price": 699.99,
+    "type": "Smartphone",
+    "processor": "A13 Bionic",
+    "memory": "128GB",
+    "os": "iOS 13",
+    "brand_name": "Apple",
+    "brand_image": "https://img.freepik.com/free-vector/two-modern-all-screen-phones_1284-30462.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "iPhone XR",
+    "price": 599.99,
+    "type": "Smartphone",
+    "processor": "A12 Bionic",
+    "memory": "64GB",
+    "os": "iOS 12",
+    "brand_name": "Apple",
+    "brand_image": "https://images.unsplash.com/photo-1528270018395-375b027411bd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "iPhone XS",
+    "price": 899.99,
+    "type": "Smartphone",
+    "processor": "A12 Bionic",
+    "memory": "256GB",
+    "os": "iOS 12",
+    "brand_name": "Apple",
+    "brand_image": "https://img.freepik.com/premium-photo/modern-mobile-phone_692498-757.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "iPhone 8 Plus",
+    "price": 699.99,
+    "type": "Smartphone",
+    "processor": "A11 Bionic",
+    "memory": "128GB",
+    "os": "iOS 11",
+    "brand_name": "Apple",
+    "brand_image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Huawei P40 Pro",
+    "price": 899.99,
+    "type": "Smartphone",
+    "processor": "Kirin 990",
+    "memory": "256GB",
+    "os": "EMUI 10",
+    "brand_name": "Huawei",
+    "brand_image": "https://images.unsplash.com/photo-1612474522113-6c2c6fc94c9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8TW9iaWxlJTIwSHVhd2VpfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Huawei P50 Pro",
+    "price": 1099.99,
+    "type": "Smartphone",
+    "processor": "Kirin 9000",
+    "memory": "256GB",
+    "os": "HarmonyOS 2.0",
+    "brand_name": "Huawei",
+    "brand_image": "https://images.unsplash.com/photo-1517091362637-0b90051c1a44?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Huawei Mate 40 Pro",
+    "price": 999.99,
+    "type": "Smartphone",
+    "processor": "Kirin 9000",
+    "memory": "256GB",
+    "os": "HarmonyOS 2.0",
+    "brand_name": "Huawei",
+    "brand_image": "https://images.unsplash.com/photo-1518118293823-28f071202da1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Huawei P40",
+    "price": 799.99,
+    "type": "Smartphone",
+    "processor": "Kirin 990",
+    "memory": "128GB",
+    "os": "HarmonyOS 2.0",
+    "brand_name": "Huawei",
+    "brand_image": "https://images.unsplash.com/photo-1518118293823-28f071202da1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Huawei Nova 8",
+    "price": 499.99,
+    "type": "Smartphone",
+    "processor": "Kirin 985",
+    "memory": "128GB",
+    "os": "EMUI 11",
+    "brand_name": "Huawei",
+    "brand_image": "https://images.unsplash.com/photo-1603921326210-6edd2d60ca68?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Huawei Enjoy 20 Pro",
+    "price": 299.99,
+    "type": "Smartphone",
+    "processor": "MediaTek Dimensity 800",
+    "memory": "128GB",
+    "os": "EMUI 10.1",
+    "brand_name": "Huawei",
+    "brand_image": "https://images.unsplash.com/photo-1600477412224-0f29b829f857?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Huawei MatePad Pro",
+    "price": 599.99,
+    "type": "Tablet",
+    "processor": "Kirin 990",
+    "memory": "128GB",
+    "os": "HarmonyOS 2.0",
+    "brand_name": "Huawei",
+    "brand_image": "https://images.unsplash.com/photo-1527578982322-bb818b9d40e6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Huawei Watch GT 3",
+    "price": 249.99,
+    "type": "Smartwatch",
+    "processor": "N/A",
+    "memory": "16GB",
+    "os": "LiteOS",
+    "brand_name": "Huawei",
+    "brand_image": "https://img.freepik.com/free-psd/three-dimensional-image-mobile-phone_53876-1606.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Huawei FreeBuds Pro",
+    "price": 169.99,
+    "type": "Wireless Earbuds",
+    "processor": "Intel Core i7",
+    "memory": "512GB SSD",
+    "os": "Windows 10",
+    "brand_name": "Huawei",
+    "brand_image": "https://images.unsplash.com/photo-1527578982322-bb818b9d40e6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Huawei MateBook X Pro",
+    "price": 1499.99,
+    "type": "Laptop",
+    "processor": "Intel Core i7",
+    "memory": "512GB SSD",
+    "os": "Windows 10",
+    "brand_name": "Huawei",
+    "brand_image": "https://images.unsplash.com/photo-1524856076870-0d765c831d68?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Huawei Band 6",
+    "price": 59.99,
+    "type": "Fitness Tracker",
+    "processor": "Intel Core i7",
+    "memory": "512GB SSD",
+    "os": "Windows 10",
+    "brand_name": "Huawei",
+    "brand_image": "https://img.freepik.com/premium-vector/vector-illustration-modern-mobile-phone_420555-334.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Nokia 8.3",
+    "price": 499.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 765",
+    "memory": "128GB",
+    "os": "Android 10",
+    "brand_name": "Nokia",
+    "brand_image": "https://images.unsplash.com/photo-1587901661576-4cf34e4785bb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fE1vYmlsZSUyME5va2lhfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Nokia 9 PureView",
+    "price": 699.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 845",
+    "memory": "128GB",
+    "os": "Android 10",
+    "brand_name": "Nokia",
+    "brand_image": "https://images.unsplash.com/photo-1517091362637-0b90051c1a44?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Nokia 8.3 5G",
+    "price": 599.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 765G",
+    "memory": "128GB",
+    "os": "Android 10",
+    "brand_name": "Nokia",
+    "brand_image": "https://images.unsplash.com/photo-1518118293823-28f071202da1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Nokia 7.2",
+    "price": 349.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 660",
+    "memory": "128GB",
+    "os": "Android 9",
+    "brand_name": "Nokia",
+    "brand_image": "https://img.freepik.com/free-vector/realistic-grey-smartphone-with-three-cameras_52683-29937.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Nokia 6.2",
+    "price": 249.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 636",
+    "memory": "64GB",
+    "os": "Android 9",
+    "brand_name": "Nokia",
+    "brand_image": "https://img.freepik.com/free-vector/two-modern-all-screen-phones_1284-30462.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Nokia 5.4",
+    "price": 199.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 662",
+    "memory": "64GB",
+    "os": "Android 10",
+    "brand_name": "Nokia",
+    "brand_image": "https://img.freepik.com/free-vector/smartphone-with-gradient-wallpaper_23-2147843160.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Nokia 3.4",
+    "price": 149.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 460",
+    "memory": "32GB",
+    "os": "Android 10",
+    "brand_name": "Nokia",
+    "brand_image": "https://images.unsplash.com/photo-1524856076870-0d765c831d68?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Nokia 2.4",
+    "price": 119.99,
+    "type": "Smartphone",
+    "processor": "MediaTek Helio P22",
+    "memory": "32GB",
+    "os": "Android 10",
+    "brand_name": "Nokia",
+    "brand_image": "https://images.unsplash.com/photo-1603921326210-6edd2d60ca68?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Nokia 1.4",
+    "price": 89.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 215",
+    "memory": "16GB",
+    "os": "Android 10 (Go Edition)",
+    "brand_name": "Nokia",
+    "brand_image": "https://img.freepik.com/free-vector/smartphone-with-gradient-wallpaper_23-2147843160.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Nokia 2720 Flip",
+    "price": 99.99,
+    "type": "Feature Phone",
+    "processor": "N/A",
+    "memory": "4GB",
+    "os": "KaiOS",
+    "brand_name": "Nokia",
+    "brand_image": "https://images.unsplash.com/photo-1600477412224-0f29b829f857?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Nokia 800 Tough",
+    "price": 129.99,
+    "type": "Rugged Phone",
+    "processor": "Snapdragon 205",
+    "memory": "4GB",
+    "os": "KaiOS",
+    "brand_name": "Nokia",
+    "brand_image": "https://images.unsplash.com/photo-1528270018395-375b027411bd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Asus ROG Phone 5",
+    "price": 1199.99,
+    "type": "Gaming Phone",
+    "processor": "Snapdragon 888",
+    "memory": "256GB",
+    "os": "ROG UI, Android 11",
+    "brand_name": "Symphony",
+    "brand_image": "https://img.freepik.com/premium-vector/230_7993-7985.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Symphony Z30",
+    "price": 149.99,
+    "type": "Smartphone",
+    "processor": "MediaTek Helio A25",
+    "memory": "32GB",
+    "os": "Android 10",
+    "brand_name": "Symphony",
+    "brand_image": "https://images.unsplash.com/photo-1517091362637-0b90051c1a44?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Symphony Z25",
+    "price": 129.99,
+    "type": "Smartphone",
+    "processor": "MediaTek Helio A22",
+    "memory": "16GB",
+    "os": "Android 9",
+    "brand_name": "Symphony",
+    "brand_image": "https://images.unsplash.com/photo-1518118293823-28f071202da1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Symphony i97",
+    "price": 99.99,
+    "type": "Smartphone",
+    "processor": "Spreadtrum SC7731E",
+    "memory": "8GB",
+    "os": "Android 9 (Go Edition)",
+    "brand_name": "Symphony",
+    "brand_image": "https://img.freepik.com/premium-vector/golden-smartphone_110488-1321.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Symphony V128",
+    "price": 79.99,
+    "type": "Smartphone",
+    "processor": "MediaTek MT6580",
+    "memory": "8GB",
+    "os": "Android 8.1",
+    "brand_name": "Symphony",
+    "brand_image": "https://img.freepik.com/premium-vector/vector-illustration-modern-mobile-phone_420555-334.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Symphony i60",
+    "price": 69.99,
+    "type": "Smartphone",
+    "processor": "MediaTek MT6580",
+    "memory": "8GB",
+    "os": "Android 7.0",
+    "brand_name": "Symphony",
+    "brand_image": "https://images.unsplash.com/photo-1600477412224-0f29b829f857?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Symphony V99",
+    "price": 59.99,
+    "type": "Smartphone",
+    "processor": "MediaTek MT6580",
+    "memory": "8GB",
+    "os": "Android 7.0",
+    "brand_name": "Symphony",
+    "brand_image": "https://img.freepik.com/premium-vector/digital-gadget_6317-1295.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Symphony B23",
+    "price": 29.99,
+    "type": "Feature Phone",
+    "processor": "N/A",
+    "memory": "N/A",
+    "os": "N/A",
+    "brand_name": "Symphony",
+    "brand_image": "https://img.freepik.com/free-vector/mobile-phones-realistic-style_23-2147510822.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Symphony L250",
+    "price": 39.99,
+    "type": "Feature Phone",
+    "processor": "N/A",
+    "memory": "N/A",
+    "os": "N/A",
+    "brand_name": "Symphony",
+    "brand_image": "https://images.unsplash.com/photo-1603921326210-6edd2d60ca68?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Symphony D38i",
+    "price": 19.99,
+    "type": "Feature Phone",
+    "processor": "N/A",
+    "memory": "N/A",
+    "os": "N/A",
+    "brand_name": "Symphony",
+    "brand_image": "https://img.freepik.com/free-vector/realistic-grey-smartphone-with-three-cameras_52683-29937.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Symphony BL97",
+    "price": 49.99,
+    "type": "Smartphone",
+    "processor": "Spreadtrum SC7731E",
+    "memory": "16GB",
+    "os": "Android 8.1 (Go Edition)",
+    "brand_name": "Symphony",
+    "brand_image": "https://images.unsplash.com/photo-1528270018395-375b027411bd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Oppo Find X3 Pro",
+    "price": 1099.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 888",
+    "memory": "256GB",
+    "os": "ColorOS 11.2, Android 11",
+    "brand_name": "Oppo",
+    "brand_image": "https://images.unsplash.com/photo-1649859398021-afbfe80e83b9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TW9iaWxlJTIwT3Bwb3xlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "name": "Oppo Find X3 Pro",
+    "price": 1099.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 888",
+    "memory": "256GB",
+    "os": "ColorOS 11.2 (based on Android 11)",
+    "brand_name": "Oppo",
+    "brand_image": "https://images.unsplash.com/photo-1517091362637-0b90051c1a44?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Oppo Reno6 Pro+",
+    "price": 899.99,
+    "type": "Smartphone",
+    "processor": "Dimensity 1200",
+    "memory": "256GB",
+    "os": "ColorOS 11.3 (based on Android 11)",
+    "brand_name": "Oppo",
+    "brand_image": "https://images.unsplash.com/photo-1518118293823-28f071202da1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Oppo A74",
+    "price": 299.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 662",
+    "memory": "128GB",
+    "os": "ColorOS 7.2 (based on Android 10)",
+    "brand_name": "Oppo",
+    "brand_image": "https://img.freepik.com/premium-vector/digital-gadget_6317-1295.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Oppo F19 Pro",
+    "price": 349.99,
+    "type": "Smartphone",
+    "processor": "Mediatek Helio P95",
+    "memory": "128GB",
+    "os": "ColorOS 11.1 (based on Android 11)",
+    "brand_name": "Oppo",
+    "brand_image": "https://img.freepik.com/premium-vector/digital-gadget_6317-1295.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Oppo A53",
+    "price": 199.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 460",
+    "memory": "64GB",
+    "os": "ColorOS 7.2 (based on Android 10)",
+    "brand_name": "Oppo",
+    "brand_image": "https://img.freepik.com/free-vector/two-modern-all-screen-phones_1284-30462.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Oppo Enco X",
+    "price": 149.99,
+    "type": "Wireless Earbuds",
+    "processor": "N/A",
+    "memory": "N/A",
+    "os": "N/A",
+    "brand_name": "Oppo",
+    "brand_image": "https://img.freepik.com/free-vector/two-modern-all-screen-phones_1284-30462.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Oppo Watch",
+    "price": 199.99,
+    "type": "Smartwatch",
+    "processor": "N/A",
+    "memory": "1GB",
+    "os": "ColorOS Watch",
+    "brand_name": "Oppo",
+    "brand_image": "https://img.freepik.com/premium-vector/golden-smartphone_110488-1321.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Oppo Reno5",
+    "price": 499.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 765G",
+    "memory": "128GB",
+    "os": "ColorOS 11.1 (based on Android 11)",
+    "brand_name": "Oppo",
+    "brand_image": "https://img.freepik.com/free-vector/mobile-phones-realistic-style_23-2147510822.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Oppo A15",
+    "price": 129.99,
+    "type": "Smartphone",
+    "processor": "Mediatek Helio P35",
+    "memory": "32GB",
+    "os": "ColorOS 7.2 (based on Android 10)",
+    "brand_name": "Oppo",
+    "brand_image": "https://img.freepik.com/premium-vector/vector-smartphone-design_1340-3514.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Oppo Power Bank 2",
+    "price": 29.99,
+    "type": "Power Bank",
+    "capacity": "10000mAh",
+    "output": "USB-A, USB-C",
+    "brand_name": "Oppo",
+    "brand_image": "https://images.unsplash.com/photo-1528270018395-375b027411bd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Vivo X60 Pro+",
+    "price": 899.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 888",
+    "memory": "256GB",
+    "os": "Funtouch OS 11.1, Android 11",
+    "brand_name": "Vivo",
+    "brand_image": "https://images.unsplash.com/photo-1655802855228-8ce409441f71?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fE1vYmlsZSUyMFZpdm98ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Vivo X70 Pro+",
+    "price": 1099.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 888+",
+    "memory": "256GB",
+    "os": "Funtouch OS 12 (based on Android 12)",
+    "brand_name": "Vivo",
+    "brand_image": "https://images.unsplash.com/photo-1517091362637-0b90051c1a44?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Vivo V21e",
+    "price": 399.99,
+    "type": "Smartphone",
+    "processor": "MediaTek Dimensity 800U",
+    "memory": "128GB",
+    "os": "Funtouch OS 11.1 (based on Android 11)",
+    "brand_name": "Vivo",
+    "brand_image": "https://images.unsplash.com/photo-1518118293823-28f071202da1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8TEclMjBtb2JpbGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Vivo Y72 5G",
+    "price": 299.99,
+    "type": "Smartphone",
+    "processor": "Mediatek Dimensity 700",
+    "memory": "128GB",
+    "os": "Funtouch OS 11.1 (based on Android 11)",
+    "brand_name": "Vivo",
+    "brand_image": "https://img.freepik.com/free-vector/realistic-grey-smartphone-with-three-cameras_52683-29937.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Vivo S10 Pro",
+    "price": 499.99,
+    "type": "Smartphone",
+    "processor": "MediaTek Dimensity 1100",
+    "memory": "256GB",
+    "os": "Funtouch OS 11.1 (based on Android 11)",
+    "brand_name": "Vivo",
+    "brand_image": "https://img.freepik.com/premium-vector/digital-gadget_6317-1295.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Vivo V23",
+    "price": 349.99,
+    "type": "Smartphone",
+    "processor": "Mediatek Dimensity 1200",
+    "memory": "128GB",
+    "os": "Funtouch OS 12 (based on Android 12)",
+    "brand_name": "Vivo",
+    "brand_image": "https://img.freepik.com/free-vector/mobile-phones-realistic-style_23-2147510822.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Vivo TWS Neo",
+    "price": 99.99,
+    "type": "Wireless Earbuds",
+    "processor": "N/A",
+    "memory": "N/A",
+    "os": "N/A",
+    "brand_name": "Vivo",
+    "brand_image": "https://img.freepik.com/free-vector/two-modern-all-screen-phones_1284-30462.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Vivo Watch 2",
+    "price": 179.99,
+    "type": "Smartwatch",
+    "processor": "N/A",
+    "memory": "2GB",
+    "os": "Funtouch OS for Watch",
+    "brand_name": "Vivo",
+    "brand_image": "https://img.freepik.com/free-vector/mobile-phones-realistic-style_23-2147510822.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Vivo X60 Pro",
+    "price": 599.99,
+    "type": "Smartphone",
+    "processor": "Exynos 1080",
+    "memory": "256GB",
+    "os": "Funtouch OS 11.1 (based on Android 11)",
+    "brand_name": "Vivo",
+    "brand_image": "https://images.unsplash.com/photo-1528270018395-375b027411bd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Vivo Y20s",
+    "price": 199.99,
+    "type": "Smartphone",
+    "processor": "Mediatek Helio G80",
+    "memory": "128GB",
+    "os": "Funtouch OS 11 (based on Android 10)",
+    "brand_name": "Vivo",
+    "brand_image": "https://images.unsplash.com/photo-1603921326210-6edd2d60ca68?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Vivo Power Bank",
+    "price": 29.99,
+    "type": "Power Bank",
+    "capacity": "10000mAh",
+    "output": "USB-A, USB-C",
+    "brand_name": "Vivo",
+    "brand_image": "https://img.freepik.com/premium-vector/vector-smartphone-design_1340-3514.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Realme GT",
+    "price": 599.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 870",
+    "memory": "128GB",
+    "os": "Realme UI 2.0, Android 11",
+    "brand_name": "Realme",
+    "brand_image": "https://images.unsplash.com/photo-1631871633283-31be5e55a29a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TW9iaWxlJTIwUmVhbG1lfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Realme GT 2 Pro",
+    "price": 899.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 8 Gen 1",
+    "memory": "256GB",
+    "os": "Realme UI 3.0 (based on Android 12)",
+    "brand_name": "Realme",
+    "brand_image": "https://images.unsplash.com/photo-1603921326210-6edd2d60ca68?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Realme Narzo 50A",
+    "price": 199.99,
+    "type": "Smartphone",
+    "processor": "Mediatek Helio G85",
+    "memory": "64GB",
+    "os": "Realme UI 2.0 (based on Android 10)",
+    "brand_name": "Realme",
+    "brand_image": "https://images.unsplash.com/photo-1528270018395-375b027411bd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Realme 8 Pro",
+    "price": 299.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 720G",
+    "memory": "128GB",
+    "os": "Realme UI 2.0 (based on Android 10)",
+    "brand_name": "Realme",
+    "brand_image": "https://img.freepik.com/premium-photo/old-pushbutton-mobile-phone-with-reflection-blue-background_233809-809.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Realme C25",
+    "price": 149.99,
+    "type": "Smartphone",
+    "processor": "Mediatek Helio G70",
+    "memory": "64GB",
+    "os": "Realme UI 2.0 (based on Android 10)",
+    "brand_name": "Realme",
+    "brand_image": "https://img.freepik.com/premium-vector/golden-smartphone_110488-1321.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Realme GT Neo 2",
+    "price": 449.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 870",
+    "memory": "128GB",
+    "os": "Realme UI 2.0 (based on Android 11)",
+    "brand_name": "Realme",
+    "brand_image": "https://img.freepik.com/free-vector/two-modern-all-screen-phones_1284-30462.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Realme Buds Air 2",
+    "price": 79.99,
+    "type": "Wireless Earbuds",
+    "processor": "N/A",
+    "memory": "N/A",
+    "os": "N/A",
+    "brand_name": "Realme",
+    "brand_image": "https://img.freepik.com/free-psd/mobile-phone-mock-up-design_1310-117.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Realme Watch S Pro",
+    "price": 129.99,
+    "type": "Smartwatch",
+    "processor": "N/A",
+    "memory": "16GB",
+    "os": "Realme UI for Watch",
+    "brand_name": "Realme",
+    "brand_image": "https://img.freepik.com/premium-vector/digital-gadget_6317-1295.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Realme 7i",
+    "price": 179.99,
+    "type": "Smartphone",
+    "processor": "Snapdragon 662",
+    "memory": "128GB",
+    "os": "Realme UI 1.0 (based on Android 10)",
+    "brand_name": "Realme",
+    "brand_image": "https://img.freepik.com/premium-photo/old-pushbutton-mobile-phone-with-reflection-blue-background_233809-809.jpg?size=626&ext=jpg&uid=R116477275&ga=GA1.1.1339526423.1701975357&semt=ais"
+  },
+  {
+    "name": "Realme Narzo 30 Pro",
+    "price": 249.99,
+    "type": "Smartphone",
+    "processor": "Dimensity 800U",
+    "memory": "128GB",
+    "os": "Realme UI 2.0 (based on Android 10)",
+    "brand_name": "Realme",
+    "brand_image": "https://images.unsplash.com/photo-1603921326210-6edd2d60ca68?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fExHJTIwbW9iaWxlfGVufDB8fDB8fHww"
+  }
+]
