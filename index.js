@@ -1,6 +1,6 @@
 const express = require("express");
 const cors = require("cors");
-const { MongoClient, ServerApiVersion } = require("mongodb");
+const { MongoClient, ServerApiVersion, ObjectId } = require("mongodb");
 const app = express();
 const prot = process.prot || 5000;
 require("dotenv").config();
@@ -34,6 +34,13 @@ async function run() {
       const result = await mobileProdackCollection.find().toArray();
       res.send(result);
     });
+    app.delete("/mobile/delete/:id", async (req, res) => {
+      const id = req.params.id;
+      const filter = {_id: new ObjectId(id)}
+      console.log(id, filter);
+      const result = await mobileProdackCollection.deleteOne(filter)
+      res.send(result)
+    });
     app.get("/brand/mobile/:brandName", async (req, res) => {
       const brandName = req.params.brandName;
       const filter = { brand_name: brandName };
@@ -41,13 +48,50 @@ async function run() {
       res.send(result);
     });
     //  ---------------------------------Buy Now  API---------------------------------------
+    // Admin buy now data
+    app.get("/allbuynow", async(req, res)=>{
+      const result = await buyNowCollection.find().toArray()
+      res.send(result)
+    })
+    app.patch("/allbuynow/confirm", async(req, res)=>{
+      const id = req.query.id;
+      const filter = {_id: new ObjectId(id)}
+      const options = { upsert: true };
+      const updatedDoc = {
+        $set:{
+          state: "Confirm"
+        }
+      }
+      const result = await buyNowCollection.updateMany(filter, updatedDoc, options)
+      res.send(result)
+    })
+    app.patch("/allbuynow/rejected", async(req, res)=>{
+      const id = req.query.id;
+      const filter = {_id: new ObjectId(id)}
+      const options = { upsert: true };
+      const updatedDoc = {
+        $set:{
+          state: "Rejected"
+        }
+      }
+      const result = await buyNowCollection.updateMany(filter, updatedDoc, options)
+      res.send(result)
+    })
+    //user buy now data
     app.get("/buynow", async(req, res)=>{
       const email = req.query.email;
       const query = {user_email: email}
       const result = await buyNowCollection.find(query).toArray()
       res.send(result)
     })
+    app.delete('/buynow/delete/:id', async(req, res)=>{
+      const id = req.params.id;
+      const filter = {_id: new ObjectId(id)}
+      const result = await buyNowCollection.deleteOne(filter)
+      res.send(result)
 
+    })
+    
     app.post("/buynow", async(req, res)=>{
     const result = await buyNowCollection.insertOne(req.body) 
     res.send(result)
@@ -61,7 +105,30 @@ async function run() {
     app.get("/usersdata", async(req, res)=>{
       const result = await usersDataCollection.find().toArray();
       res.send(result)
-    },[])
+    })
+    app.delete('/usersdata/delete/:id', async(req, res)=>{
+      const id = req.params.id;
+      const filter = {_id: new ObjectId(id)}
+      const result = await usersDataCollection.deleteOne(filter)
+      res.send(result)
+
+    })
+    app.put('/usersdata/updated', async(req, res)=>{
+      const id = req.query.id;
+      const filter = {_id: new ObjectId(id)}
+      const data = req.body;
+      const updatedDoc = {
+        $set: {
+          roll: "Admin",
+          photo: data.photo,
+          name: data.name,
+          email: data.email
+        }
+      }
+      const result = await usersDataCollection.updateOne(filter,updatedDoc)
+      res.send(result)
+
+    })
     app.post("/usersdata", async (req, res) => {
       const query = { email: req.body.email };
       const existingUser = await usersDataCollection.findOne(query);
